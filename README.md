@@ -1,6 +1,9 @@
 # vegetables_detection
 
 
+You can download the dataset from Kaggle: https://www.kaggle.com/datasets/ayyuce/vegetables?datasetId=2036840
+
+
 ![0](https://user-images.githubusercontent.com/8023150/160719971-79a94626-cef8-4e7b-9b07-7bfb84181bf6.png)
 
 
