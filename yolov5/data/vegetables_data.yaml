@@ -1,0 +1,9 @@
+train: ../dataset/images/train/ 
+val:  ../dataset/images/val/
+test: ../dataset/images/test/
+
+# number of classes
+nc: 7
+
+# class names
+names: ["lettuce", "potato", "carrot", "onion", "garlic", "leek", "broccoli"]
