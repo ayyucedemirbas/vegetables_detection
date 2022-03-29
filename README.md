@@ -84,5 +84,25 @@ You can download the dataset from Kaggle: https://www.kaggle.com/datasets/ayyuce
 
 <img width="530" alt="image" src="https://user-images.githubusercontent.com/8023150/160721735-3d23d943-3cdd-4751-b360-8a86e344c9f3.png">
 
+## Validation
+
+![confusion_matrix](https://user-images.githubusercontent.com/8023150/160724306-d7a68f43-b0eb-44f3-bcde-f1ff5e0dcd5e.png)
+
+![F1_curve](https://user-images.githubusercontent.com/8023150/160724311-b32fc5e7-be8d-45b4-ad5b-c616f19d81b8.png)
+
+
+![P_curve](https://user-images.githubusercontent.com/8023150/160724322-9795104a-0b17-402f-b73f-f2084afb7733.png)
+
+
+![PR_curve](https://user-images.githubusercontent.com/8023150/160724326-73efad40-c665-4990-a22b-e083e06773ad.png)
+
+
+![R_curve](https://user-images.githubusercontent.com/8023150/160724342-14dbaf82-47ad-4226-8438-53115e0ec39b.png)
+
+
+
+## Data
+
+<img width="414" alt="image" src="https://user-images.githubusercontent.com/8023150/160724250-4ff76238-401d-4304-851c-bace8a32aea0.png">
 
 
