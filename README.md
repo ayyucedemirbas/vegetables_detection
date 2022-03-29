@@ -41,3 +41,13 @@ You can download the dataset from Kaggle: https://www.kaggle.com/datasets/ayyuce
          23                -1  1   1182720  models.common.C3                        [512, 512, 1, False]          
          24      [17, 20, 23]  1     32364  models.yolo.Detect                      [7, [[10, 13, 16, 30, 33, 23], [30, 61, 62, 45, 59, 119], [116, 90, 156, 198, 373, 326]], [128, 256, 512]]
         Model summary: 270 layers, 7038508 parameters, 7038508 gradients, 15.9 GFLOPs
+
+
+<img width="656" alt="image" src="https://user-images.githubusercontent.com/8023150/160721230-92f43074-77b0-454b-a59e-606cf32629ab.png">
+
+<img width="501" alt="image" src="https://user-images.githubusercontent.com/8023150/160721257-25334adb-e959-458b-8311-4a4152b75736.png">
+
+<img width="530" alt="image" src="https://user-images.githubusercontent.com/8023150/160721735-3d23d943-3cdd-4751-b360-8a86e344c9f3.png">
+
+
+
