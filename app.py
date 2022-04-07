@@ -9,7 +9,7 @@ st.write("Choose an image to detect vegetables (lettuce, potato, carrot, onion, 
 uploaded_file = st.file_uploader("Choose an image...")
 
 
-if st.button('Send'):
+if st.button('Detect'):
     #os.system("conda activate testcv")
     #print(str(uploaded_file.name))
     image = Image.open(uploaded_file)
